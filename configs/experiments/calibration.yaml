@@ -1,0 +1,4 @@
+experiment_name: calibration
+method: temperature_scaling
+fit_on: calibration_split
+evaluate_on: test_split

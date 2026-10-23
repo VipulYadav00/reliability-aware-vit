@@ -1,0 +1,4 @@
+experiment_name: baseline
+method: softmax_confidence
+calibration: false
+ood_method: none

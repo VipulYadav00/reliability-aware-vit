@@ -1,0 +1,6 @@
+dataset_name: to_be_confirmed
+root_dir: data
+label_column: to_be_confirmed
+patient_id_column: to_be_confirmed
+image_path_column: to_be_confirmed
+split_strategy: patient_level

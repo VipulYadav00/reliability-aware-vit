@@ -1,0 +1,9 @@
+name: custom_vit
+image_size: 224
+patch_size: 16
+embedding_dim: 192
+depth: 6
+num_heads: 3
+mlp_ratio: 4.0
+dropout: 0.1
+num_classes: to_be_confirmed

@@ -1,0 +1,4 @@
+experiment_name: ood_baselines
+methods:
+  - maximum_softmax_probability
+  - feature_distance

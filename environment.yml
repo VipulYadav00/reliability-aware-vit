@@ -1,0 +1,23 @@
+name: reliability-vit
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - pillow
+  - pyyaml
+  - jupyter
+  - ipykernel
+  - pytest
+  - pip:
+      - torch
+      - torchvision
+      - streamlit
+      - tqdm
